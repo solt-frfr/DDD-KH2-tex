@@ -5,3 +5,4 @@ There are three versions of the mod, all of which availible in the releases. Ima
   1. Recolor: Mostly changes the color scheme, keeping a majority of details of the original textures.
   2. KH2 adapt: Extremely accurate to KH2, but keeps the X on Sora's shirt and the Dream Eater symbol on Riku's.
   3. KH2 full: Extremely accurate to KH2.
+![KINGDOM HEARTS 3D_20 05 24_18 43 33 109](https://github.com/solt-frfr/DDD-KH2-tex/assets/150750679/226e7660-339a-4f97-8fa8-f21d0bba015f)
