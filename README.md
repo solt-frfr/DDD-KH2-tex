@@ -1,5 +1,5 @@
 # DDD-KH2-tex
-Changes Kingdom Hearts 3 D DDD's Sora and Riku's textures to more greatly resemble their KH2 appearances.
+Changes Kingdom Hearts 3D DDD's Sora and Riku's textures to more greatly resemble their KH2 appearances.
 
 There are three versions of the mod, all of which availible in the releases. Images will be provided once I have them.
   1. Recolor: Mostly changes the color scheme, keeping a majority of details of the original textures.
